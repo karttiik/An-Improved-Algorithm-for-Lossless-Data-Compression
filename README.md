@@ -6,7 +6,7 @@ In this new algorithm, a coder will go through the data file, convert each chara
 
 ## Output
 
-Import your desired data to be compressed in "TextFile.txt", after running the program for compression, you will find the compressed file in "compressed.txt", and after running the program for decompression, you will find the decompressed file in "Original.txt".
+This is a C program based application which compresses a given data set. Import your desired data to be compressed in "TextFile.txt", compile and run the program for compression(i.e. huff.c), you will find the compressed file in "compressed.txt" and header would be in "new__head.txt", and after running the program for decompression(i.e.unhuff.c), you will find the decompressed file in "Original.txt".
 
 ## How to Run
 
